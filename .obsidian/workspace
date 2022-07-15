@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/cpp_snippets.md.md",
+            "file": "Second Brain/DSA/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FibonacciSeries",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/cpp_snippets.md.md",
+                "file": "Second Brain/DSA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/cpp_snippets.md.md"
+                "file": "Second Brain/DSA/Untitled.md"
               }
             }
           },
@@ -154,16 +154,16 @@
     "direction": "horizontal",
     "width": 306
   },
-  "active": "71464f424b7c9e4c",
+  "active": "e3a3996809c1df63",
   "lastOpenFiles": [
-    "Second Brain/Recursion/recusrion1.md",
+    "Second Brain/DSA/Recursion/recusrion1.md",
+    "Second Brain/cpp_snippets.md.md",
     "Second Brain/Recursion/Untitled Kanban.md",
     "2022-07-15.md",
     "Second Brain/game_of_life.md.md",
     "Second Brain/random_number.md.md",
     "Second Brain/todos.md.md",
     "Second Brain/trueRandomNumberGenerator.md.md",
-    "Second Brain/cpp_snippets.md.md",
     "todos.md.pdf",
     "Second Brain/test.md.md"
   ]
