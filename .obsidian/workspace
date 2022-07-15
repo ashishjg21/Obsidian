@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
-            "mode": "source",
+            "file": "Second Brain/DSA/Problems/Fibonacci Series.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FibonacciSeries",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317
   },
   "right": {
     "id": "f5d477fb3984cf3a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
+                "file": "Second Brain/DSA/Problems/Fibonacci Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/Problems/69. Unique Paths.md"
+                "file": "Second Brain/DSA/Problems/Fibonacci Series.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "71464f424b7c9e4c",
   "lastOpenFiles": [
+    "Second Brain/DSA/Problems/69. Unique Paths.md",
+    "Second Brain/DSA/Problems/Fibonacci Series.md",
     "Second Brain/game_of_life.md.md",
     "Day Planners/Day Planner-20220715.md",
     "README.md",
@@ -164,8 +166,6 @@
     "Second Brain/trueRandomNumberGenerator.md.md",
     "Second Brain/todos.md.md",
     "Second Brain/random_number.md.md",
-    "Second Brain/cpp_snippets.md.md",
-    "Second Brain/DSA/Problems/Fibonacci Series.md",
-    "Second Brain/DSA/Problems/69. Unique Paths.md"
+    "Second Brain/cpp_snippets.md.md"
   ]
 }
