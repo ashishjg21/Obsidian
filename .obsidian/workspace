@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/Fibonacci Series.md",
+            "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/Fibonacci Series.md",
+                "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/Fibonacci Series.md"
+                "file": "Second Brain/DSA/Problems/69. Unique Paths.md"
               }
             }
           },
@@ -155,7 +155,7 @@
     "width": 273,
     "collapsed": true
   },
-  "active": "d666de144a5a4f64",
+  "active": "71464f424b7c9e4c",
   "lastOpenFiles": [
     "Second Brain/DSA/Recursion/recusrion1.md",
     "Second Brain/DSA/Fibonacci Series.md",
