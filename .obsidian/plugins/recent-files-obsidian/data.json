@@ -5,16 +5,36 @@
       "path": "Second Brain/DSA/Problems/69. Unique Paths.md"
     },
     {
-      "basename": "recusrion1",
-      "path": "Second Brain/DSA/Recursion/recusrion1.md"
+      "basename": "game_of_life.md",
+      "path": "Second Brain/game_of_life.md.md"
+    },
+    {
+      "basename": "Day Planner-20220715",
+      "path": "Day Planners/Day Planner-20220715.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "trueRandomNumberGenerator.md",
+      "path": "Second Brain/trueRandomNumberGenerator.md.md"
+    },
+    {
+      "basename": "todos.md",
+      "path": "Second Brain/todos.md.md"
+    },
+    {
+      "basename": "random_number.md",
+      "path": "Second Brain/random_number.md.md"
     },
     {
       "basename": "Fibonacci Series",
-      "path": "Second Brain/DSA/Fibonacci Series.md"
+      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
     },
     {
-      "basename": "cpp_snippets.md",
-      "path": "Second Brain/cpp_snippets.md.md"
+      "basename": "recusrion1",
+      "path": "Second Brain/DSA/Recursion/recusrion1.md"
     }
   ],
   "omittedPaths": [],

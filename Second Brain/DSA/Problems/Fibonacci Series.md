@@ -1,6 +1,6 @@
 
 ## Fibonacci Series
-
+[todo- binets fibonacci formula](https://r-knott.surrey.ac.uk/Fibonacci/fibFormula.html)
 ### Solution 1 - Recursive Approach
 
 Time Complexity - O(2^N)  

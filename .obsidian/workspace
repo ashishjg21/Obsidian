@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1db9a3bf8ed1edbf",
+        "id": "47c069f84907aa8e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -157,15 +157,15 @@
   },
   "active": "71464f424b7c9e4c",
   "lastOpenFiles": [
-    "Second Brain/DSA/Recursion/recusrion1.md",
-    "Second Brain/DSA/Fibonacci Series.md",
-    "Second Brain/cpp_snippets.md.md",
-    "Second Brain/Recursion/Untitled Kanban.md",
-    "2022-07-15.md",
     "Second Brain/game_of_life.md.md",
-    "Second Brain/random_number.md.md",
-    "Second Brain/todos.md.md",
+    "Day Planners/Day Planner-20220715.md",
+    "README.md",
+    "2022-07-15.md",
     "Second Brain/trueRandomNumberGenerator.md.md",
-    "todos.md.pdf"
+    "Second Brain/todos.md.md",
+    "Second Brain/random_number.md.md",
+    "Second Brain/cpp_snippets.md.md",
+    "Second Brain/DSA/Problems/Fibonacci Series.md",
+    "Second Brain/DSA/Problems/69. Unique Paths.md"
   ]
 }
