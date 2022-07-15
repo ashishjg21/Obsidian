@@ -114,15 +114,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "763ec2e03be974a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 223.5
   },
-  "active": "e3a3996809c1df63",
+  "active": "f7eca09fbf6a203f",
   "lastOpenFiles": [
     "Second Brain/Recursion/Untitled Kanban.md",
     "Second Brain/Recursion/recusrion1.md",
