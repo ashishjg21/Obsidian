@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a3996809c1df63",
+        "id": "1db9a3bf8ed1edbf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/Untitled.md",
+            "file": "Second Brain/DSA/Fibonacci Series.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/Untitled.md",
+                "file": "Second Brain/DSA/Fibonacci Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/Untitled.md"
+                "file": "Second Brain/DSA/Fibonacci Series.md"
               }
             }
           },
@@ -152,11 +152,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 273,
+    "collapsed": true
   },
-  "active": "e3a3996809c1df63",
+  "active": "d666de144a5a4f64",
   "lastOpenFiles": [
     "Second Brain/DSA/Recursion/recusrion1.md",
+    "Second Brain/DSA/Fibonacci Series.md",
     "Second Brain/cpp_snippets.md.md",
     "Second Brain/Recursion/Untitled Kanban.md",
     "2022-07-15.md",
@@ -164,7 +166,6 @@
     "Second Brain/random_number.md.md",
     "Second Brain/todos.md.md",
     "Second Brain/trueRandomNumberGenerator.md.md",
-    "todos.md.pdf",
-    "Second Brain/test.md.md"
+    "todos.md.pdf"
   ]
 }

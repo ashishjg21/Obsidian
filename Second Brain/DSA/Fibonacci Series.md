@@ -1,7 +1,5 @@
 
-## 
-
-
+## Fibonacci Series
 
 ### Solution 1 - Recursive Approach
 
@@ -19,7 +17,7 @@ Space Complexity - O(N) given the function call stack size
 ### Solution 2 - Dynamic Programming Approach
 
 Use memoization to store perviously computed fibonacci values.  
-Time Complexity - O(N)  
+****Time Complexity - O(N)  
 Space Complexity - O(N)
 
 ```
@@ -38,7 +36,7 @@ Space Complexity - O(N)
 ### Solution 3 - Imperative Approach (Bottom Up DP)
 
 With Imperative approach, we step through the loop and optimize the space by storing only two previous fibonacci values in two variables.  
-Time Complexity - O(N)  
+****Time Complexity - O(N)  
 Space Complexity - O(1)
 
 ```
@@ -63,7 +61,7 @@ Using Binet's Formula for the Nth Fibonacci involves the usage of our golden sec
 Using approximation equation is good enough here, since we know N >= 0 && N <= 30, we can safely use the following rounded function  
 Fib(N) = round( ( **Phi**^N ) / sqrt(5) )  
 Full mathematical explanation of Binet's Formula [here](http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibFormula.html)  
-Time Complexity - O(1)  
+****Time Complexity - O(1)  
 Space Complexity - O(1)
 
 ```
@@ -72,3 +70,4 @@ Space Complexity - O(1)
         return round(pow(phi, N) / sqrt(5));
     }
 ```
+
