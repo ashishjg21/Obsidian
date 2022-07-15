@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "2c29cf7ee8de20bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "031eb198f66b829d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "game_of_life.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68035823d951a602",
+    "type": "split",
+    "children": [
+      {
+        "id": "6746bc967d8e1b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5211b30c9dd5c215",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe5981035ade35a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d58e1e842058eee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3887117fbe00c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a1c9980f3d2d48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "game_of_life.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "031eb198f66b829d",
+  "lastOpenFiles": [
+    "game_of_life.md.md",
+    "test.md.md"
+  ]
+}
