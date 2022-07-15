@@ -3,5 +3,16 @@
   "calendar",
   "table-editor-obsidian",
   "meld-encrypt",
-  "obsidian-git"
+  "obsidian-git",
+  "sliding-panes-obsidian",
+  "tag-wrangler",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-day-planner",
+  "cm-editor-syntax-highlight-obsidian",
+  "code-block-copy",
+  "recent-files-obsidian",
+  "breadcrumbs",
+  "obsidian-icon-folder",
+  "readwise-official"
 ]

@@ -18,6 +18,7 @@ in cpp.json
 							"}"
 
 						],
-									"description" : "to produce the main snippet for cpp"
+							"description" : "to produce the main snippet for cpp"
 			}
 		}
+	

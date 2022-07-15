@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/Recursion/recusrion1.md",
+            "file": "Second Brain/cpp_snippets.md.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -57,6 +57,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b23fe6cceeaf622b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/Recursion/recusrion1.md",
+                "file": "Second Brain/cpp_snippets.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/Recursion/recusrion1.md"
+                "file": "Second Brain/cpp_snippets.md.md"
               }
             }
           },
@@ -122,18 +130,34 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "aa9fbb887d53c694",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a31bac330211b3a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 306
   },
-  "active": "f7eca09fbf6a203f",
+  "active": "5a31bac330211b3a",
   "lastOpenFiles": [
-    "Second Brain/Recursion/Untitled Kanban.md",
     "Second Brain/Recursion/recusrion1.md",
+    "Second Brain/Recursion/Untitled Kanban.md",
     "2022-07-15.md",
     "Second Brain/game_of_life.md.md",
     "Second Brain/random_number.md.md",
