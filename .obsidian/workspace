@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/Recursion/recusrion1.md",
-            "mode": "preview",
+            "file": "Second Brain/Aptitude/Untitled.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/Recursion/recusrion1.md",
+                "file": "Second Brain/Aptitude/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/Recursion/recusrion1.md"
+                "file": "Second Brain/Aptitude/Untitled.md"
               }
             }
           },
@@ -146,6 +146,14 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "0794d16923e324b4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -157,6 +165,7 @@
   },
   "active": "65d02806686797dd",
   "lastOpenFiles": [
+    "Second Brain/DSA/Recursion/recusrion1.md",
     "Second Brain/DSA/Problems/Fibonacci Series.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
     "Second Brain/game_of_life.md.md",
@@ -165,7 +174,6 @@
     "2022-07-15.md",
     "Second Brain/trueRandomNumberGenerator.md.md",
     "Second Brain/todos.md.md",
-    "Second Brain/random_number.md.md",
-    "Second Brain/cpp_snippets.md.md"
+    "Second Brain/random_number.md.md"
   ]
 }
