@@ -9,6 +9,10 @@
       "path": "Second Brain/SQL/Intro.md"
     },
     {
+      "basename": "game_of_life.md",
+      "path": "Second Brain/game_of_life.md.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Second Brain/Aptitude/Untitled.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "69. Unique Paths",
       "path": "Second Brain/DSA/Problems/69. Unique Paths.md"
-    },
-    {
-      "basename": "game_of_life.md",
-      "path": "Second Brain/game_of_life.md.md"
     },
     {
       "basename": "Day Planner-20220715",
