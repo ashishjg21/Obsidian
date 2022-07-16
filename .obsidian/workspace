@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/Aptitude/Untitled.md",
+            "file": "Second Brain/SQL/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/Aptitude/Untitled.md",
+                "file": "Second Brain/SQL/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/Aptitude/Untitled.md"
+                "file": "Second Brain/SQL/Untitled.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "65d02806686797dd",
   "lastOpenFiles": [
+    "Second Brain/SQL/Intro.md",
+    "Second Brain/Aptitude/Untitled.md",
     "Second Brain/DSA/Recursion/recusrion1.md",
     "Second Brain/DSA/Problems/Fibonacci Series.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
@@ -172,8 +174,6 @@
     "Day Planners/Day Planner-20220715.md",
     "README.md",
     "2022-07-15.md",
-    "Second Brain/trueRandomNumberGenerator.md.md",
-    "Second Brain/todos.md.md",
-    "Second Brain/random_number.md.md"
+    "Second Brain/trueRandomNumberGenerator.md.md"
   ]
 }
