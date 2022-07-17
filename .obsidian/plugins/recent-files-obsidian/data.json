@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fibonacci Series",
+      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Second Brain/SQL/Untitled.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "recusrion1",
       "path": "Second Brain/DSA/Recursion/recusrion1.md"
-    },
-    {
-      "basename": "Fibonacci Series",
-      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
     },
     {
       "basename": "69. Unique Paths",
