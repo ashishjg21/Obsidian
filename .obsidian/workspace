@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/SQL/Intro.md",
+            "file": "Second Brain/lastMinNotes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/SQL/Intro.md",
+                "file": "Second Brain/lastMinNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/SQL/Intro.md"
+                "file": "Second Brain/lastMinNotes.md"
               }
             }
           },
@@ -140,11 +140,11 @@
   },
   "active": "65d02806686797dd",
   "lastOpenFiles": [
+    "Second Brain/SQL/Intro.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
     "Second Brain/Aptitude/Untitled.md",
     "Second Brain/DSA/Problems/Fibonacci Series.md",
     "Second Brain/SQL/Untitled.md",
-    "Second Brain/SQL/Intro.md",
     "Second Brain/game_of_life.md.md",
     "Second Brain/DSA/Recursion/recusrion1.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
