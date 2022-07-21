@@ -1,4 +1,4 @@
-### 1. What are the different data types present in C++?
+####  What are the different data types present in C++?
 
 The 4 data types in C++ are given below:
 
@@ -19,10 +19,10 @@ If a function is **inline** , the compiler places a copy of the code of that fun
 
 A **reference** is like a pointer. It is another name of an already existing variable. Once a reference name is initialized with a variable, that variable can be accessed by the variable name or reference name both.
 
-### What is an abstract class and when do you use it?
+#### What is an abstract class and when do you use it?
 A class is called an abstract class whose objects can never be created. Such a class exists as a parent for the derived classes. We can make a class abstract by placing a pure virtual function in the class.
 
-### What is this pointer in C++?
+#### What is this pointer in C++?
 The member functions of every object have a pointer named this, which points to the object itself. The value of this is set to the address of the object for which it is called. It can be used to access the data in the object it points to.
 
 
@@ -185,4 +185,76 @@ Linked lists can be considered both linear and non-linear data structures. This 
                     Step2: Dequeue the last item of q1, the dequeued item is stored in result variable.
                     Step3: Swap the names of q1 and q2 (for getting updated data after dequeue)
                     Step4: Return the result.
+
+#### hash-map
+-   **Hash-map** is a data structure that uses implementation of hash table data structure which allows access of data in constant time (O(1)) complexity if you have the key.
+-   The time complexity is O(1) **assuming** that the hash function used in hash map distributes elements uniformly among the buckets.
+#### What is a priority queue?
+-   A priority queue is an abstract data type that is like a normal queue but has priority assigned to elements.
+-   Elements with higher priority are processed before the elements with a lower priority.
+-   In order to implement this, a minimum of two queues are required - one for the data and the other to store the priority
+#### What is a Binary Search Tree?
+
+-   A binary search tree (BST) is a variant of binary tree data structure that stores data in a very efficient manner such that the values of the nodes in the left sub-tree are less than the value of the root node, and the values of the nodes on the right of the root node are correspondingly higher than the root.
+-   Also, individually the left and right sub-trees are their own binary search trees at all instances of time.
+#### What is an AVL Tree?
+
+-   AVL trees are **height balancing** BST. AVL tree checks the height of left and right sub-trees and assures that the difference is **not more than 1**. This difference is called Balance Factor and is calculates as. `BalanceFactor = height(left subtree) − height(right subtree)`
+
+#### What is a graph data structure?
+
+Graph is a type of non-linear data structure that consists of vertices or nodes connected by edges or links for storing data. Edges connecting the nodes may be directed or undirected.
+
+#### What is the difference between tree and graph data structure?
+
+1.  Tree and graph are differentiated by the fact that a tree structure must be connected and can never have loops whereas in the graph there are no restrictions.
+2.  Tree provides insights on relationship between nodes in a hierarchical manner and graph follows a network model.
+#### What is the difference between the Breadth First Search (BFS) and Depth First Search (DFS)?
+
+1.  BFS and DFS both are the traversing methods for a graph. Graph traversal is nothing but the process of visiting all the nodes of the graph.
+2.  The main difference between BFS and DFS is that BFS traverses level by level whereas DFS follows first a path from the starting to the end node, then another path from the start to end, and so on until all nodes are visited.
+3.  Furthermore, BFS uses queue data structure for storing the nodes whereas DFS uses the stack for traversal of the nodes for implementation.
+4.  DFS yields deeper solutions that are not optimal, but it works well when the solution is dense whereas the solutions of BFS are optimal.
+5.  You can learn more about BFS here: [Breadth First Search](https://www.interviewbit.com/tutorial/breadth-first-search/) and DFS here: [Depth First Search](https://www.interviewbit.com/tutorial/depth-first-search/).
+
+
+### dbms
+#### What do you mean by ‘databases’?
+
+A database is a structured collection of data stored in a computer system and organised in a way to be quickly searched. With databases, information can be rapidly retrieved.
+
+create a new database called ‘books’:
+
+`CREATE DATABASE books;`
+
+ remove a column by using the DROP keyword:
+
+`ALTER TABLE classics DROP pages;`
+
+### What are the types of relationships used in MySQL?
+
+There are three categories of relationships in MySQL:
+
+-   **One-to-One**: Usually, when two items have a one-to-one relationship, you just include them as columns in the same table.
+-   **One-to-Many**: One-to-many (or many-to-one) relationships occur when one row in one table is linked to many rows in another table.
+-   **Many-to-Many**: In a many-to-many relationship, many rows in one table are linked to many rows in another table. To create this relationship, add a third table containing the same key column from each of the other table
+## JavaScript
+### Explain Hoisting in javascript.
+
+Hoisting is the default behaviour of javascript where all the variable and function declarations are moved on top.
+
+![](https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/003/406/original/Hoisting.png?1654851517)
+
+This means that irrespective of where the variables and functions are declared, they are moved on top of the scope. The scope can be both local and global.
+### Difference between “ == “ and “ === “ operators.
+
+Both are comparison operators. The difference between both the operators is that “==” is used to compare values whereas, “ === “ is used to compare both values and types.
+### Difference between var and let keyword in javascript.
+Some differences are 
+1.  From the very beginning, the 'var' keyword was used in JavaScript programming **whereas the keyword** 'let' was just added in 2015.
+2.  The keyword 'Var' has function scope. Anywhere in the function, the variable specified using var is accessible but in ‘let’ the scope of a variable declared with the 'let' keyword is limited to the block in which it is declared. Let's start with a Block Scope.
+3.  'var' declares a variable that will be hoisted but 'let' declares a variable that will not be hoisted.
+
+
+![](https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/003/407/original/static_vs_dynamic.png?1654852333)
 
