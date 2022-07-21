@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 193,
+    "collapsed": true
   },
   "right": {
     "id": "b1efda1747bfbf29",
@@ -138,7 +140,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65d02806686797dd",
+  "active": "96c6b68854b1ae80",
   "lastOpenFiles": [
     "Second Brain/SQL/Intro.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
