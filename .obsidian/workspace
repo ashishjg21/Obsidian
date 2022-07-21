@@ -7,113 +7,136 @@
         "id": "65d02806686797dd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain/SQL/Intro.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "473f107a5278d627",
-    "type": "mobile-drawer",
+    "id": "68fd9cf6cb3e5146",
+    "type": "split",
     "children": [
       {
-        "id": "13ebf8c9a873e645",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "b949ca812c4e9eb9",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "633b3ac71d33622f",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "de782d7c44ab291f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2f2f60a7813bca1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f684f1b3dd5084b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8cf82a623de723f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "96c6b68854b1ae80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "b88dead9a3a0225a",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "203310b662faf98a",
-    "type": "mobile-drawer",
+    "id": "b1efda1747bfbf29",
+    "type": "split",
     "children": [
       {
-        "id": "bcd644c1b7b568ef",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "1c15680bd98309c0",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "2bbc35e22c55e116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269d672561cfdc4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second Brain/SQL/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b54c0091e6011eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second Brain/SQL/Intro.md"
+              }
+            }
+          },
+          {
+            "id": "75b68cae27aa16e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eedd03c6cedd7e29",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7b0b59a41eb4157",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "f200c0f82d98f107",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
-      },
-      {
-        "id": "42163219db4da911",
-        "type": "leaf",
-        "state": {
-          "type": "BC-matrix",
-          "state": {}
-        }
-      },
-      {
-        "id": "3b4f8ddcb416b27a",
-        "type": "leaf",
-        "state": {
-          "type": "BC-tree",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "65d02806686797dd",
   "lastOpenFiles": [
