@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "fe5ac52adf5c9f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d02806686797dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain/DSA/Recursion/recusrion1.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "473f107a5278d627",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "13ebf8c9a873e645",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "b949ca812c4e9eb9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "633b3ac71d33622f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b88dead9a3a0225a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "203310b662faf98a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bcd644c1b7b568ef",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1c15680bd98309c0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Second Brain/DSA/Recursion/recusrion1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f200c0f82d98f107",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Second Brain/DSA/Recursion/recusrion1.md"
+          }
+        }
+      },
+      {
+        "id": "42163219db4da911",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "3b4f8ddcb416b27a",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      },
+      {
+        "id": "e26c039632f4b4dc",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "b949ca812c4e9eb9",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
+    "2022-07-21.md",
+    "Second Brain/SQL/Intro.md",
+    "Second Brain/Aptitude/Untitled.md",
+    "Second Brain/DSA/Problems/Fibonacci Series.md",
+    "Second Brain/SQL/Untitled.md",
+    "Second Brain/game_of_life.md.md",
+    "Second Brain/DSA/Recursion/recusrion1.md",
+    "Second Brain/DSA/Problems/69. Unique Paths.md",
+    "Day Planners/Day Planner-20220715.md"
+  ]
+}
