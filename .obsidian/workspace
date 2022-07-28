@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/lastMinNotes.md",
+            "file": "Second Brain/DSA/Problems/242. Valid Anagram.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/lastMinNotes.md",
+                "file": "Second Brain/DSA/Problems/242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/lastMinNotes.md"
+                "file": "Second Brain/DSA/Problems/242. Valid Anagram.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "65d02806686797dd",
   "lastOpenFiles": [
+    "Second Brain/lastMinNotes.md",
     "Second Brain/SQL/Intro.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
     "Second Brain/Aptitude/Untitled.md",
@@ -156,7 +157,6 @@
     "Second Brain/game_of_life.md.md",
     "Second Brain/DSA/Recursion/recusrion1.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
-    "Day Planners/Day Planner-20220715.md",
-    "README.md"
+    "Day Planners/Day Planner-20220715.md"
   ]
 }
