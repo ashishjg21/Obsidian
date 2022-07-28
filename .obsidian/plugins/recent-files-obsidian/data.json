@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "242. Valid Anagram",
-      "path": "Second Brain/DSA/Problems/242. Valid Anagram.md"
+      "basename": "interview_prep",
+      "path": "Second Brain/interview_prep.md"
     },
     {
       "basename": "lastMinNotes",
-      "path": "Second Brain/lastMinNotes.md"
+      "path": "Second Brain/DSA/lastMinNotes.md"
+    },
+    {
+      "basename": "game_of_life.md",
+      "path": "Second Brain/ProjectBLlog/game_of_life.md.md"
+    },
+    {
+      "basename": "242. Valid Anagram",
+      "path": "Second Brain/DSA/Problems/242. Valid Anagram.md"
     },
     {
       "basename": "Intro",
@@ -23,10 +31,6 @@
     {
       "basename": "Untitled",
       "path": "Second Brain/SQL/Untitled.md"
-    },
-    {
-      "basename": "game_of_life.md",
-      "path": "Second Brain/game_of_life.md.md"
     },
     {
       "basename": "recusrion1",
@@ -46,15 +50,11 @@
     },
     {
       "basename": "trueRandomNumberGenerator.md",
-      "path": "Second Brain/trueRandomNumberGenerator.md.md"
-    },
-    {
-      "basename": "todos.md",
-      "path": "Second Brain/todos.md.md"
+      "path": "Second Brain/ProjectBLlog/trueRandomNumberGenerator.md.md"
     },
     {
       "basename": "random_number.md",
-      "path": "Second Brain/random_number.md.md"
+      "path": "Second Brain/ProjectBLlog/random_number.md.md"
     }
   ],
   "omittedPaths": [],
