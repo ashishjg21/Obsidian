@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
-            "mode": "source",
+            "file": "Second Brain/DSA/Problems/887. Super Egg Drop.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
+                "file": "Second Brain/DSA/Problems/887. Super Egg Drop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/Problems/69. Unique Paths.md"
+                "file": "Second Brain/DSA/Problems/887. Super Egg Drop.md"
               }
             }
           },
@@ -146,10 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65d02806686797dd",
+  "active": "d2f2f60a7813bca1",
   "lastOpenFiles": [
-    "Second Brain/DSA/Problems/242. Valid Anagram.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
+    "Second Brain/DSA/Problems/242. Valid Anagram.md",
     "Second Brain/interview_prep.md",
     "Second Brain/DSA/lastMinNotes.md",
     "Second Brain/ProjectBLlog/game_of_life.md.md",
