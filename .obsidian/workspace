@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/interview_prep.md",
+            "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/interview_prep.md",
+                "file": "Second Brain/DSA/Problems/69. Unique Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/interview_prep.md"
+                "file": "Second Brain/DSA/Problems/69. Unique Paths.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "65d02806686797dd",
   "lastOpenFiles": [
+    "Second Brain/DSA/Problems/242. Valid Anagram.md",
+    "Second Brain/DSA/Problems/69. Unique Paths.md",
+    "Second Brain/interview_prep.md",
     "Second Brain/DSA/lastMinNotes.md",
     "Second Brain/ProjectBLlog/game_of_life.md.md",
-    "Second Brain/DSA/Problems/242. Valid Anagram.md",
     "Second Brain/SQL/Intro.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
     "Second Brain/Aptitude/Untitled.md",
     "Second Brain/DSA/Problems/Fibonacci Series.md",
-    "Second Brain/SQL/Untitled.md",
-    "Second Brain/DSA/Recursion/recusrion1.md",
-    "Second Brain/DSA/Problems/69. Unique Paths.md"
+    "Second Brain/SQL/Untitled.md"
   ]
 }
