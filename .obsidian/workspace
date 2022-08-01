@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/Problems/887. Super Egg Drop.md",
-            "mode": "preview",
+            "file": "Second Brain/DSA/lastMinNotes.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/Problems/887. Super Egg Drop.md",
+                "file": "Second Brain/DSA/lastMinNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/Problems/887. Super Egg Drop.md"
+                "file": "Second Brain/DSA/lastMinNotes.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2f2f60a7813bca1",
+  "active": "65d02806686797dd",
   "lastOpenFiles": [
+    "Second Brain/interview_prep.md",
+    "Second Brain/Aptitude/Untitled.md",
+    "Second Brain/DSA/Problems/887. Super Egg Drop.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
     "Second Brain/DSA/Problems/242. Valid Anagram.md",
-    "Second Brain/interview_prep.md",
     "Second Brain/DSA/lastMinNotes.md",
     "Second Brain/ProjectBLlog/game_of_life.md.md",
     "Second Brain/SQL/Intro.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
-    "Second Brain/Aptitude/Untitled.md",
-    "Second Brain/DSA/Problems/Fibonacci Series.md",
-    "Second Brain/SQL/Untitled.md"
+    "Second Brain/DSA/Problems/Fibonacci Series.md"
   ]
 }

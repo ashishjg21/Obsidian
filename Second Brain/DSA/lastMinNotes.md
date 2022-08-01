@@ -1,3 +1,4 @@
+**last min notes dont spend more than 2 min on each question.**
 ####  What are the different data types present in C++?
 
 The 4 data types in C++ are given below:
