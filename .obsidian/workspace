@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/DSA/lastMinNotes.md",
+            "file": "Second Brain/OpenGL/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/DSA/lastMinNotes.md",
+                "file": "Second Brain/OpenGL/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/DSA/lastMinNotes.md"
+                "file": "Second Brain/OpenGL/Untitled.md"
               }
             }
           },
@@ -148,12 +148,12 @@
   },
   "active": "d2f2f60a7813bca1",
   "lastOpenFiles": [
+    "Second Brain/DSA/lastMinNotes.md",
     "Second Brain/interview_prep.md",
     "Second Brain/Aptitude/Untitled.md",
     "Second Brain/DSA/Problems/887. Super Egg Drop.md",
     "Second Brain/DSA/Problems/69. Unique Paths.md",
     "Second Brain/DSA/Problems/242. Valid Anagram.md",
-    "Second Brain/DSA/lastMinNotes.md",
     "Second Brain/ProjectBLlog/game_of_life.md.md",
     "Second Brain/SQL/Intro.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
