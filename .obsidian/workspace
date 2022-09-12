@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "65d02806686797dd",
+        "id": "340dd7ef97db61f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/SQL/Intro.md",
+            "file": "Day Planners/Day Planner-20220912.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/SQL/Intro.md",
+                "file": "Day Planners/Day Planner-20220912.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/SQL/Intro.md"
+                "file": "Day Planners/Day Planner-20220912.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65d02806686797dd",
+  "active": "340dd7ef97db61f9",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220912.md",
+    "Day Planners/Day Planner-20220809.md",
+    "Day Planners/Day Planner-20220715.md",
+    "Day Planners/Day Planner-20220716.md",
+    "Second Brain/SQL/Intro.md",
     "Second Brain/OpenGL/Untitled.md",
     "Second Brain/DSA/lastMinNotes.md",
     "Second Brain/interview_prep.md",
     "Second Brain/Aptitude/Untitled.md",
-    "Second Brain/DSA/Problems/887. Super Egg Drop.md",
-    "Second Brain/DSA/Problems/69. Unique Paths.md",
-    "Second Brain/DSA/Problems/242. Valid Anagram.md",
-    "Second Brain/ProjectBLlog/game_of_life.md.md",
-    "Second Brain/SQL/Intro.md",
-    "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md"
+    "Second Brain/DSA/Problems/887. Super Egg Drop.md"
   ]
 }
