@@ -1,5 +1,5 @@
 ## Day Planner
-- [ ] breaking bad 
-- [ ] dsa cover 2 quesetions 
-- [ ] love babbar 
+- [x] breaking bad 
+- [x] dsa cover 2 quesetions 
+- [x] love babbar 
 - [ ] 
