@@ -1,6 +1,5 @@
 {
   "theme": "obsidian",
   "cssTheme": "Dracula for Obsidian",
-  "baseFontSizeAction": true,
-  "translucency": true
+  "baseFontSizeAction": false
 }

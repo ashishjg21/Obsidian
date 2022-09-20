@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "fe5ac52adf5c9f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d02806686797dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain/lastMinNotes.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "230b66169af3f92b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b59dccb14e8c41e0",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "0f067c80abb4cf46",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5322512091b41fe9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c0477721c7cee0ca",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ac71ca3073299d4d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1c7aafb1f34c1418",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f79aca243bb69b45",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Second Brain/lastMinNotes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b9c2e6c112722e8c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Second Brain/lastMinNotes.md"
+          }
+        }
+      },
+      {
+        "id": "377a81509ff4682e",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "d685e390408acc6b",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d685e390408acc6b",
+  "lastOpenFiles": [
+    "Second Brain/SQL/Intro.md",
+    "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
+    "Second Brain/Aptitude/Untitled.md",
+    "Second Brain/DSA/Problems/Fibonacci Series.md",
+    "Second Brain/SQL/Untitled.md",
+    "Second Brain/game_of_life.md.md",
+    "Second Brain/DSA/Recursion/recusrion1.md",
+    "Second Brain/DSA/Problems/69. Unique Paths.md",
+    "Day Planners/Day Planner-20220715.md",
+    "README.md"
+  ]
+}
