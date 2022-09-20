@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220920.md",
+            "file": "Second Brain/Cyber Security/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 192
   },
   "right": {
     "id": "b1efda1747bfbf29",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220920.md",
+                "file": "Second Brain/Cyber Security/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20220920.md"
+                "file": "Second Brain/Cyber Security/Untitled.md"
               }
             }
           },
@@ -146,10 +146,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d2f2f60a7813bca1",
+  "active": "9d7705cf2bce26e9",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220912.md",
     "Day Planners/Day Planner-20220920.md",
+    "Day Planners/Day Planner-20220912.md",
     "Day Planners/Day Planner-20220913.md",
     "Day Planners/Day Planner-20220809.md",
     "Day Planners/Day Planner-20220715.md",
