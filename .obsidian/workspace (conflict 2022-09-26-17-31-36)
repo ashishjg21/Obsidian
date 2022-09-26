@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "fe5ac52adf5c9f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d7705cf2bce26e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Brain/Cyber Security/Untitled.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea99f3d0e4b896a6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e83aaf57521d9042",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "0007a80c871dfe61",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d706ec974ba35396",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8d6e5fcf5ec1cd0d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6f9e6bf3476c9e9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7b733853b36e2e32",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "37f0d381f816fba6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Second Brain/Cyber Security/Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "712d7460ed6ed48c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Second Brain/Cyber Security/Untitled.md"
+          }
+        }
+      },
+      {
+        "id": "ea0f9002c3bd89cc",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "2abb5cd298174b33",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      },
+      {
+        "id": "c1fddc7a77770350",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "c1fddc7a77770350",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20220920.md",
+    "Day Planners/Day Planner-20220912.md",
+    "Day Planners/Day Planner-20220913.md",
+    "Day Planners/Day Planner-20220809.md",
+    "Day Planners/Day Planner-20220715.md",
+    "Day Planners/Day Planner-20220716.md",
+    "Second Brain/SQL/Intro.md",
+    "Second Brain/OpenGL/Untitled.md",
+    "Second Brain/DSA/lastMinNotes.md",
+    "Second Brain/interview_prep.md"
+  ]
+}
