@@ -5,3 +5,6 @@ tips.
 (check divisibility rules)
 
 A positive natural number is called prime number if nothing divides it except the number itself and 1.(check prime nos)
+
+try use option reduction 
+always get out of comfort zone 
