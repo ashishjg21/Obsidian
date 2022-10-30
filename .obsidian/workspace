@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Second Brain/Aptitude/Untitled.md",
+            "file": "Second Brain/SQL/postgres.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Brain/Aptitude/Untitled.md",
+                "file": "Second Brain/SQL/postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain/Aptitude/Untitled.md"
+                "file": "Second Brain/SQL/postgres.md"
               }
             }
           },
@@ -145,8 +145,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b65c919733e7e7a6",
+  "active": "d2f2f60a7813bca1",
   "lastOpenFiles": [
+    "Second Brain/Aptitude/Untitled.md",
     "README.md",
     "Screenshot 2022-09-20 at 2.25.42 PM.png",
     "Second Brain/DSA/Stack/Untitled.md",
@@ -155,7 +156,6 @@
     "Day Planners/Day Planner-20220921.md",
     "Second Brain/Cyber Security/Untitled.md",
     "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md",
-    "Second Brain/DSA/Problems/69. Unique Paths.md",
-    "Day Planners/Day Planner-20220913.md"
+    "Second Brain/DSA/Problems/69. Unique Paths.md"
   ]
 }
