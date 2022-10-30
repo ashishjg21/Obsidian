@@ -6,9 +6,17 @@ Drop your `column_name` column.
 ```sql
 ALTER TABLE table_name DROP COLUMN column_name;
 ```
-
-Here's how you can rename a column:
+add a column:
+```sql
+ALTER TABLE table_name ADD COLUMN column_name DATATYPE;
+```
+rename a column:
 
 ```sql
 ALTER TABLE table_name RENAME COLUMN column_name TO new_name;
+```
+
+DELETE row 
+```sql 
+DELETE FROM second_table WHERE username='Luigi'; 
 ```
