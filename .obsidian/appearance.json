@@ -1,6 +1,6 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Obsidian Windows 98 Edition",
+  "theme": "obsidian",
+  "cssTheme": "Dracula for Obsidian",
   "baseFontSizeAction": true,
   "translucency": true
 }

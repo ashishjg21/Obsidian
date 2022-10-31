@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Fibonacci Series",
+      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
+    },
+    {
+      "basename": "887. Super Egg Drop",
+      "path": "Second Brain/DSA/Problems/887. Super Egg Drop.md"
+    },
+    {
+      "basename": "242. Valid Anagram",
+      "path": "Second Brain/DSA/Problems/242. Valid Anagram.md"
+    },
+    {
+      "basename": "69. Unique Paths",
+      "path": "Second Brain/DSA/Problems/69. Unique Paths.md"
+    },
+    {
       "basename": "postgres",
       "path": "Second Brain/SQL/postgres.md"
     },
@@ -41,16 +57,8 @@
       "path": "Excalidraw/Drawing 2022-07-21 04.23.39.excalidraw.md"
     },
     {
-      "basename": "69. Unique Paths",
-      "path": "Second Brain/DSA/Problems/69. Unique Paths.md"
-    },
-    {
       "basename": "Intro",
       "path": "Second Brain/SQL/Intro.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Second Brain/OpenGL/Untitled.md"
     },
     {
       "basename": "interview_prep",
@@ -63,14 +71,6 @@
     {
       "basename": "game_of_life.md",
       "path": "Second Brain/ProjectBLlog/game_of_life.md.md"
-    },
-    {
-      "basename": "242. Valid Anagram",
-      "path": "Second Brain/DSA/Problems/242. Valid Anagram.md"
-    },
-    {
-      "basename": "Fibonacci Series",
-      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
     },
     {
       "basename": "Untitled",
