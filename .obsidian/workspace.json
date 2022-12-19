@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f3ade9449c53a255",
+  "active": "d2f2f60a7813bca1",
   "lastOpenFiles": [
     "Second Brain/DSA/Problems/887. Super Egg Drop.md",
     "notes wad.md",

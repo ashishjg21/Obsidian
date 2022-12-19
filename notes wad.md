@@ -320,3 +320,91 @@ The `substr()` function in PHP is used to extract a portion of a string. It take
 Here is an example of how to use the `substr()` function:
 ![[Screenshot 2022-12-19 at 3.49.01 PM.png]]
 Note that the `substr()` function is 0-indexed, meaning that the first character in the string is at position 0.
+
+Write a program in HTML (Web-Page) having a form with firstname, lastname and a submit button. On clicking the button form validation should work (Use Javascript for that) and data entry should be saved in a database (PHP code needed, for insertion of data from “form” to database). Form should be styled using CSS. (Use any mode- inline, internal or external)?
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form with Validation</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <form id="form" method="post" action="process.php">
+    <label for="firstname">First Name:</label><br>
+    <input type="text" id="firstname" name="firstname"><br>
+    <label for="lastname">Last Name:</label><br>
+    <input type="text" id="lastname" name="lastname"><br><br>
+    <button type="submit" onclick="return validateForm()">Submit</button>
+  </form> 
+  <script>
+    function validateForm() {
+      // Validate firstname and lastname
+      var firstname = document.getElementById('firstname').value;
+      var lastname = document.getElementById('lastname').value;
+      if (firstname == '' || lastname == '') {
+        alert('First name and last name are required');
+        return false;
+      }
+      return true;
+    }
+  </script>
+</body>
+</html>
+
+The form's action attribute specifies the PHP script that will process the form data. Here is an example of a PHP script that inserts the form data into a database:
+php
+
+// Connect to the database
+$servername = "localhost";
+$username = "username";
+$password = "password";
+$dbname = "myDB";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+
+// Get the form data
+$firstname = $_POST['firstname'];
+$lastname = $_POST['lastname'];
+
+// Insert the data into the database
+$sql = "INSERT INTO users (firstname, lastname) VALUES ('$firstname', '$lastname')";
+if ($conn->query($sql) === TRUE) {
+  echo "New record created successfully";
+} else {
+  echo "Error: " . $sql . "<br>" . $conn->error;
+}
+
+$conn->close();
+
+
+What do you understand about Numeric array, Associative array and Multidimensional array?
+
+In PHP, an array is a data structure that stores a collection of values. There are three types of arrays in PHP: numeric arrays, associative arrays, and multidimensional arrays.
+
+1.  Numeric array: A numeric array is an array with a numerical index. The index starts at 0 and increments by 1 for each element. For example:
+$numeric_array = [1, 2, 3, 4, 5];
+
+echo $numeric_array[0]; // 1
+echo $numeric_array[1]; // 2
+echo $numeric_array[2]; // 3
+
+2.  Associative array: An associative array is an array with string keys instead of numerical indices. For example:
+$associative_array = ['a' => 1, 'b' => 2, 'c' => 3];
+
+echo $associative_array['a']; // 1
+echo $associative_array['b']; // 2
+echo $associative_array['c']; // 3
+
+3.  Multidimensional array: A multidimensional array is an array containing one or more arrays. For example:
+$multidimensional_array = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+];
+
+echo $multidimensional_array[0][0]; // 1
+echo $multidimensional_array[1][1]; // 5
+echo $multidimensional_array[2][2]; // 9
