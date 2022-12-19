@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "fe5ac52adf5c9f45",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c652571bf6a289e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ade9449c53a255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes wad.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68fd9cf6cb3e5146",
+    "type": "split",
+    "children": [
+      {
+        "id": "de782d7c44ab291f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2f2f60a7813bca1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f684f1b3dd5084b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8cf82a623de723f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "96c6b68854b1ae80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "b1efda1747bfbf29",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbc35e22c55e116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269d672561cfdc4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes wad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b54c0091e6011eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes wad.md"
+              }
+            }
+          },
+          {
+            "id": "75b68cae27aa16e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "27376cfbdb3017e3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "748067a9213a4e87",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "e55deece553970df",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f3ade9449c53a255",
+  "lastOpenFiles": [
+    "Second Brain/DSA/Problems/887. Super Egg Drop.md",
+    "notes wad.md",
+    "tr td th.md",
+    "Second Brain/DSA/Problems/Fibonacci Series.md",
+    "Second Brain/OpenGL/Untitled.md",
+    "Second Brain/DSA/Problems/242. Valid Anagram.md",
+    "Second Brain/DSA/Problems/69. Unique Paths.md",
+    "Second Brain/SQL/postgres.md",
+    "Second Brain/Aptitude/Untitled.md",
+    "README.md"
+  ]
+}

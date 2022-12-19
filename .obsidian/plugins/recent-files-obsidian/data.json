@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Fibonacci Series",
-      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
+      "basename": "notes wad",
+      "path": "notes wad.md"
     },
     {
       "basename": "887. Super Egg Drop",
       "path": "Second Brain/DSA/Problems/887. Super Egg Drop.md"
+    },
+    {
+      "basename": "tr td th",
+      "path": "tr td th.md"
+    },
+    {
+      "basename": "Fibonacci Series",
+      "path": "Second Brain/DSA/Problems/Fibonacci Series.md"
     },
     {
       "basename": "242. Valid Anagram",
@@ -90,5 +98,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
